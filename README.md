@@ -1,9 +1,9 @@
 # Data
 
 ## data
-- Data based on facts:
+### Data based on facts
   - data is based on collected facts.
-- Fairness on conclusion:
+### Fairness on conclusion
   - Fairness means ensuring that your analysis doesn't create or reinforce bias. 
   -As a data analyst, you want to help create systems that are fair and inclusive to everyone. 
   - Sometimes conclusions based on data can be true and unfair.
@@ -24,7 +24,7 @@
   -  An ethical data analyst can look at the data gathered and conclude that the company culture is preventing some employees from succeeding, and the company needs to address those problems to boost performance.
 
 
-collecting data for what purpose:
+### Collecting data for what purpose
 
 - 1. make money : 
 - Because of the way that organizations have imperatives to make money or to report to somebody or provide some analysis, 
