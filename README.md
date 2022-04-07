@@ -179,3 +179,32 @@
     - Check your work, but be confident. Sometimes people change correct answers because they feel wrong, but they’re actually right. 
     - **Your first instinct is usually correct.**
 
+
+
+### Metadata
+Metadata types:
+- Structural metadata:
+  - indicates exactly how many collections data lives in. It provides information about how a piece of data is organized and whether it’s part of one, or more than one, data collection. 
+- administrative metadata: 
+  - Administrative metadata indicates the technical source and details for a digital asset.
+  - The date and time a photo was taken is an example of administrative metadata.
+- Descriptive metadata:
+  - Descriptive metadata describes a piece of data and can be used to identify it at any time.
+  - The ID numbers are descriptive metadata. 
+
+
+Metadata management:
+- metadata is stored in a single, central location and it gives the company standardized information about all of its data. This is done in two ways. 
+  - 1. First, metadata includes information about where each system is located and where the data sets are located within those systems. 
+  - 2. Second, the metadata describes how all of the data is connected between the various systems. Another important aspect of metadata is something called data governance. 
+- Data governance:
+  -  is a process to ensure the formal management of a company’s data assets. 
+  -  This gives an organization better control of their data and helps a company manage issues related to data security and privacy, integrity, usability, and internal and external data flows. 
+  -  It's important to note that data governance is about more than just standardizing terminology and procedures. 
+  -  It's about the roles and responsibilities of the people who work with the metadata every day. 
+  -  metadata specialists:
+     -  These are metadata specialists, and they organize and maintain company data, ensuring that it's of the highest possible quality. 
+     -  These people create basic metadata identification and discovery information, describe the way different data sets work together, and explain the many different types of data resources. 
+     -  Metadata specialists also create very important standards that everyone follows and the models used to organize the data.
+
+
