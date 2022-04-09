@@ -36,6 +36,21 @@
   - 2. thinking about how to keep aspects of their data protected and private. 
     - We don't want to go through our practice thinking about data instances as something we can just throw on the web. 
     - No, there needs to be considerations about how to keep that information, and likenesses like their images, or their voices, or their text.
+
+
+### storyteller
+- One of the fascinating things about being a data analyst is you are a storyteller. 
+- You look at the data and every data point out there has a story to tell. 
+- If you are able to perfect that skill, you can tell some amazing stories.
+
+### make the portfolio unique
+- In addition to the personal story this data tells, we also get these **insights into the analyst's personality.**
+- Making your portfolio personal doesn't mean the focus has to be completely on you, but it is an opportunity for other people to get to know your better. 
+- It's good to add things to your portfolio that you care about, things that are interesting to you and stuff you'd love to share. 
+- This will highlight your technical skill and how you approach technical problems too. 
+- **Making your portfolio personal also helps make it unique.**
+- **By highlighting the things you're interested in, you can stand out from the crowd.** 
+ 
 ## Data life cycle
 1. Plan: Decide what kind of data is needed, how it will be managed, and who will be responsible for it.
 
