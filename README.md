@@ -223,3 +223,98 @@ Metadata management:
      -  Metadata specialists also create very important standards that everyone follows and the models used to organize the data.
 
 
+## Data formats in practice
+
+
+### Internal data vs. External data
+
+- Internal data  
+
+  - Data that lives inside a company’s own systems
+
+  - Wages of employees across different business units tracked by HR
+  - Sales data by store location 
+  - Product inventory levels across distribution centers
+
+- External data
+
+  - Data that lives outside of a company or organization
+
+  - National average wages for the various positions throughout your organization
+  - Credit reports for customers of an auto dealership
+
+### Continuous data vs. Discrete data
+
+- Continuous data
+
+  -Data that is measured and can have almost any numeric value
+
+  - Height of kids in third grade classes (52.5 inches, 65.7 inches)
+  - Runtime markers in a video
+  - Temperature
+
+- Discrete data
+
+  - Data that is counted and has a limited number of values
+
+  - Number of people who visit a hospital on a daily basis (10, 20, 200)
+  - Room’s maximum capacity allowed
+  - Tickets sold in the current month
+
+
+
+### Qualitative vs. Qualitative
+
+- Qualitative
+
+  -Subjective and explanatory measures of qualities and characteristics
+
+  - Exercise activity most enjoyed
+  - Favorite brands of most loyal customers
+  - Fashion preferences of young adults
+
+- Qualitative
+
+  -Specific and objective measures of numerical facts
+
+  - Percentage of board certified doctors who are women
+  - Population of elephants in Africa
+  - Distance from Earth to Mars
+
+### Nominal vs. Ordinal
+
+- Nominal
+
+  - A type of qualitative data that isn’t categorized with a set order
+
+  - First time customer, returning customer, regular customer
+  - New job applicant, existing applicant, internal applicant
+  - New listing, reduced price listing, foreclosure
+
+- Ordinal
+
+  - A type of qualitative data with a set order or scale
+
+  - Movie ratings (number of stars: 1 star, 2 stars, 3 stars)
+  - Ranked-choice voting selections (1st, 2nd, 3rd)
+  - Income level (low income, middle income, high income)
+
+
+### Structured data vs. Unstructured data
+- Structured data
+
+  - Data organized in a certain format, like rows and columns
+
+  - Expense reports
+  - Tax returns
+  - Store inventory
+
+- Unstructured data
+
+  - Data that isn’t organized in any easily identifiable manner
+
+  - Social media posts
+  - Emails
+  - Videos
+
+
